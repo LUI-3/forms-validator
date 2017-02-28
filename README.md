@@ -1,7 +1,7 @@
 
 [![LUI-3 logo](http://content.github.lui-3.cz/LUI-3_logo-small.png)](//lui-3.cz/)
-# Phone-navbar
-This repository contains `LUI-3_phone-navbar` component. Simple component for mobile-friendly navigation inspired by many phone apps. Can be placed at the bottom of your screen, or visible only when scrolling up.
+# Forms-validator
+This repository contains `LUI-3_forms-validator` component. Simple component for mobile-friendly navigation inspired by many phone apps. Can be placed at the bottom of your screen, or visible only when scrolling up.
 
 *still work in progress*
 
@@ -10,11 +10,12 @@ This repository contains `LUI-3_phone-navbar` component. Simple component for mo
 
 ## Install via bower
 ```bower
-bower install LUI-3_phone-navbar
+bower install LUI-3_forms-validator
 ```
 **Bower dependencies:**
 
 ```
 LUI-3_base
+LUI-3_forms-base
 ```
 Repository: https://github.com/LUI-3/base
