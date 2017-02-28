@@ -1,7 +1,7 @@
 
 [![LUI-3 logo](http://content.github.lui-3.cz/LUI-3_logo-small.png)](//lui-3.cz/)
 # Forms-validator
-This repository contains `LUI-3_forms-validator` component. Simple component for mobile-friendly navigation inspired by many phone apps. Can be placed at the bottom of your screen, or visible only when scrolling up.
+This repository contains `LUI-3_forms-validator` component.
 
 *still work in progress*
 
