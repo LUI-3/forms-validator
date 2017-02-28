@@ -18,4 +18,6 @@ bower install LUI-3_forms-validator
 LUI-3_base
 LUI-3_forms-base
 ```
-Repository: https://github.com/LUI-3/base
+Repositories:  
+https://github.com/LUI-3/base  
+https://github.com/LUI-3/forms-base  
